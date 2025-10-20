@@ -1,0 +1,10 @@
+Etapa 1 -  Mariana Arcelino
+Implementação de um Mini Banco de Dados
+
+Etapa 2 - Cleuvya
+Criação do modelo da entidade com pelo menos 5 atributos 
+Criação da uma API REST usando FastAPI com endpoints para realizar as seguintes funcionalidades (Fx)
+
+Etapa 3 - Dário
+Criação de um script Python para povoar o mini banco de dados com pelo menos 1.000 itens da entidade escolhida
+Criação de um arquivo (divisao_tarefas.txt) detalhando a divisão de tarefas
