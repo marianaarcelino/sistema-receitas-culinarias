@@ -13,13 +13,11 @@ requirements.txt        # Bibliotecas necessárias
 
 ## Instalação
 
-Clonar o repositório:
+### Clonar o repositório:
 
 git clone https://github.com/marianaarcelino/sistema-receitas-culinarias
-cd sistema-receitas-culinarias
 
-
-Criar e ativar ambiente virtual:
+### Criar e ativar ambiente virtual:
 
 python -m venv venv
 # Windows
@@ -28,7 +26,7 @@ venv\Scripts\activate
 source venv/bin/activate
 
 
-Instalar dependências:
+### Instalar dependências:
 
 pip install -r requirements.txt
 
