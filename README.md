@@ -33,11 +33,11 @@ Instalar dependências:
 pip install -r requirements.txt
 
 ## Executando a API
+
+Para iniciar a API, use o comando:
+
+```bash
 uvicorn api_receitas:app --reload
-
-
-- API rodando em: http://127.0.0.1:8000
-- Documentação automática: http://127.0.0.1:8000/docs
 
 ## Funcionalidades
 
