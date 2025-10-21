@@ -16,6 +16,7 @@ requirements.txt        # Bibliotecas necessárias
 ### Clonar o repositório:
 
 git clone https://github.com/marianaarcelino/sistema-receitas-culinarias
+cd sistema-receitas-culinarias
 
 ### Criar e ativar ambiente virtual:
 
