@@ -15,8 +15,8 @@ requirements.txt        # Bibliotecas necessárias
 
 Clonar o repositório:
 
-git clone <link-do-seu-repo>
-cd <nome-da-pasta>
+git clone https://github.com/marianaarcelino/sistema-receitas-culinarias
+cd sistema-receitas-culinarias
 
 
 Criar e ativar ambiente virtual:
@@ -36,11 +36,10 @@ pip install -r requirements.txt
 
 Para iniciar a API, use o comando:
 
-```bash
 uvicorn api_receitas:app --reload
 
-## Funcionalidades
 
+## Funcionalidades
 - Inserir, listar, obter, atualizar e deletar receitas
 - Exportar banco em ZIP
 - Gerar hashes (MD5, SHA1, SHA256)
